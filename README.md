@@ -1,1 +1,3 @@
-# ML-Pyton_Intro
+# Introduction to Machine Learning with Python
+
+Andreas C, Muller & Sarah Guido
